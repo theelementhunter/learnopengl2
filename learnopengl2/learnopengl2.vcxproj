@@ -20,7 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Downloads\glad (1)\src\glad.c" />
-    <ClCompile Include="hellowindow.cpp" />
+    <ClCompile Include="lessons.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
