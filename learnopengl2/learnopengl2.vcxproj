@@ -20,8 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Downloads\glad (1)\src\glad.c" />
-    <ClCompile Include="lessons.cpp" />
-    <ClCompile Include="test.cpp" />
+    <ClCompile Include="helloTriangle.cpp" />
+    <ClCompile Include="shaderClass.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fragmentShader.s" />
+    <None Include="vertexShader.s" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
